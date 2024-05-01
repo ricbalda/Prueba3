@@ -1,0 +1,3 @@
+
+Open table Cg_Cuentas
+
