@@ -1,3 +1,5 @@
 
 
 Open table In_Articulos
+
+Read table filter(null)
