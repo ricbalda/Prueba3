@@ -1,3 +1,5 @@
 
 Open table Cg_Cuentas
 
+Read Record Filter("COD_EMPR=@cod_empr")
+
